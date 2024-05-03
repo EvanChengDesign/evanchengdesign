@@ -1,5 +1,6 @@
 # About Me:
-I am currently working on API servers and SQL databases<br>
+Hello! my name is Evan Cheng and I am a versatile software developer and creative designer who specializes in providing dynamic solutions for print, web, and digital applications. I am passionate about using code to maximize efficiency while developing creative, customer-focused solutions. Proud veteran of the United States Army.
+<br>
 
 
 ## Socials:
